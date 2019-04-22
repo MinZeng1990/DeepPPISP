@@ -3,7 +3,7 @@ PPI sites prediction through combining local and global features with deep neura
 
 # Requirements
 
-torch==0.4.0
+PyTorch==0.4.0
 
 numpy==1.15.0
 
