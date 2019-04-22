@@ -15,7 +15,9 @@ scikit-learn==0.19.1
   
   The PSSMs, raw sequences, secondary structures and labels are given in data_cache folder. You can split the raw three datasets by yourself. In our study, we use the 83% as training dataset (350 protein sequences) and 17% as testing dataset (70 protein sequence). The detail of the three datasets and dataset division can see the paper and the code.
   
-  You can run the train.py file to train DeepPPISP and use the predcit.py file to see the resluts.
+  You can run the train.py file to train DeepPPISP and use the predcit.py file to see the resluts. If you want to tune some hyper-parameters, you can change some values of hyper-parameters in config.py in utils folder.
+
+  The other details can see the paper and the codes.
  
 # Citation
 
