@@ -1,5 +1,5 @@
 # DeepPPISP
-PPI sites prediction through combining local and global features with deep neural networks
+Protein-protein interaction site prediction through combining local and global features with deep neural networks
 
 # Requirements
 
